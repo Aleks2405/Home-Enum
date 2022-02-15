@@ -29,13 +29,5 @@ namespace Home_Enum
             return part.Name + "Составляю отчет"; 
         }
     }
-    //static class Team
-    //{
-    //    public static IWorker Worker { get; } = new WorkerWWW();
-    //    public static IWorker TeamLide { get; } = new TeamleaderWWW();
-    //    public static IWorker[] Print { get; } = new IWorker[]                               не пригодилось 
-    //   {
-    //        Worker,TeamLide
-    //   };
-    //}
+  
 }
